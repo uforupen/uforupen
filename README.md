@@ -44,7 +44,7 @@ TBU
 ## 📫 Let's Connect!
 
 - [LinkedIn](http://linkedin.com/in/uforupen)
-- Email: manickam.upendran@gmail.com
+- Email: uforupen@duck.com
 
 ---
 
