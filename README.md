@@ -5,7 +5,7 @@
 ---
 
 **Backend Engineer → Fullstack Engineer → AI Engineer (now @ Meta)**  
-Seattle/Bellevue, WA | manickam.upendran@gmail.com
+Seattle/Bellevue, WA | uforupen@duck.com
 
 ## 🚀 About Me
 
