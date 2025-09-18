@@ -13,11 +13,11 @@ I'm a passionate technologist with a unique journey from backend Java engineerin
 
 - 🛠️ **Current:** AI/ML Engineer at Meta, building scalable machine learning systems for business data extraction and AI conversations across Facebook, Messenger, and WhatsApp.
 - 💡 **Previously:** Senior roles in fullstack web engineering, cloud architectures, and content management platforms (AEM, Salesforce, AWS).
-- 🌱 **Learning:** Always exploring advances in Generative AI, LLMs, and distributed systems.
+- 🌱 **Learning:** Exploring advances in Generative AI, LLMs, and distributed systems.
 
 ## 🧰 Technical Toolbox
 
-**Languages:** Java, Python, PHP, Kotlin, Golang, C/C++  
+**Languages:** Python, Hack/PHP, Java, Kotlin, Golang, C/C++  
 **Frontend:** JavaScript, React, Typescript, Node.js, HTML, CSS  
 **AI/ML/Data:** GenAI (LLM), Machine Learning, Deep Learning, PyTorch, Scikit-learn, Pandas, Numpy  
 **Cloud & Infra:** AWS, Azure, Linux, Docker, Kafka  
